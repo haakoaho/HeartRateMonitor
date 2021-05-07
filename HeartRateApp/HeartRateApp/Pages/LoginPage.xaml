@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:pagemodels="clr-namespace:HeartRateApp.PageModels" x:DataType="pagemodels:LoginPageModel"
+             x:Class="HeartRateApp.Pages.LoginPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Text ="{Binding Username}" Placeholder="username"></Entry>
+            <Button Text="Log in" Command="{Binding LogIn}"></Button>
+            <Button Text="Register" Command="{Binding Register}"></Button>
+            <Label>This app collects health data by logging in you consent to health data being stored. 
+                You are able to share health data with your doctor for improved treatment. You can change your
+                sharing preference at any time in the settings page</Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

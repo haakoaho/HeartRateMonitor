@@ -1,0 +1,94 @@
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.csprojAssemblyReference.cache
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.AssemblyInfoInputs.cache
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.AssemblyInfo.cs
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.csproj.CoreCompileInputs.cache
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\appsettings.json
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.exe
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.deps.json
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.runtimeconfig.json
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.runtimeconfig.dev.json
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\ref\Heart Monitor API.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.pdb
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\EntityFramework6.Npgsql.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Npgsql.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\haako\source\repos\Heart Monitor API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\staticwebassets\Heart Monitor API.StaticWebAssets.Manifest.cache
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\staticwebassets\Heart Monitor API.StaticWebAssets.xml
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\scopedcss\bundle\Heart Monitor API.styles.css
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.RazorTargetAssemblyInfo.cache
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.csproj.CopyComplete
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.dll
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\ref\Heart Monitor API.dll
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.pdb
+C:\Users\haako\source\repos\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.genruntimeconfig.cache
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\appsettings.json
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.exe
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.deps.json
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.runtimeconfig.json
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.runtimeconfig.dev.json
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\ref\Heart Monitor API.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Heart Monitor API.pdb
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\EntityFramework6.Npgsql.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Npgsql.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.csprojAssemblyReference.cache
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.AssemblyInfoInputs.cache
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.AssemblyInfo.cs
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.csproj.CoreCompileInputs.cache
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\staticwebassets\Heart Monitor API.StaticWebAssets.Manifest.cache
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\staticwebassets\Heart Monitor API.StaticWebAssets.xml
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\scopedcss\bundle\Heart Monitor API.styles.css
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.RazorTargetAssemblyInfo.cache
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.csproj.CopyComplete
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\ref\Heart Monitor API.dll
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.pdb
+C:\Users\haako\Desktop\Ny mappe\Heart Monitor API\obj\Debug\net5.0\Heart Monitor API.genruntimeconfig.cache

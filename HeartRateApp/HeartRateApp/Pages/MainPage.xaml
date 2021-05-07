@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:pagemodels="clr-namespace:HeartRateApp.PageModels" x:DataType="pagemodels:MainPageModel"
+             x:Class="HeartRateApp.Pages.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Add Record" Command="{Binding AddRecord}"></Button>
+            <ListView x:Name="RecordList" 
+                  ItemsSource="{Binding Records}" 
+                  RowHeight="100"
+                  SelectedItem="{Binding SelectedRecord, Mode=TwoWay}"
+                  >
+
+                <ListView.ItemTemplate>
+                    <DataTemplate >
+                        <ViewCell>
+                            <StackLayout Padding="3,0,3,3" >
+                                <StackLayout Orientation="Horizontal" >
+                                    <Label Text="Click to display record"  TextColor="Black"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
