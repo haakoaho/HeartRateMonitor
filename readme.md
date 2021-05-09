@@ -2,7 +2,7 @@
 10 hour project designed to demonstrate programming capability of designing a fullstack application.
 
 - [Health Application](#health-application)
-  - [Introudction](#introudction)
+  - [Introduction](#introduction)
   - [Installation](#installation)
     - [Database](#database)
     - [Integration Test](#integration-test)
@@ -14,15 +14,15 @@
     - [Mobile Application](#mobile-application)
     - [Integration Test](#integration-test-1)
 
-## Introudction
-The purpose of this app is to measure the heart rate of a person. The user registers with a unique username, they will then be given a user id to store all their records. The data is stored in a database, so that when GDPR is implemented, the users can give consent to share their data with health personel so it becomes easier for them to detect diseases early. 
+## Introduction
+The purpose of this app is to measure the heart rate of a person. The user registers with a unique username, they will then be given a user id to store all their records. The data is stored in a database, so that when GDPR is implemented, the users can give consent to share their data with health personnel so it becomes easier for them to detect diseases early. 
 
-The implemnted solution is a full stack mobile application with a postgreSQL database, ASP[]().NET API layer, with a Xamarin.Forms mobile applcation in the UI layer. 
+The implemented solution is a full stack mobile application with a postgreSQL database, ASP[]().NET API layer, with a Xamarin.Forms mobile application in the UI layer. 
 
 ## Installation 
 
 ### Database
-Install [PostgreSQL](https://www.postgresql.org/download/) with PGAdmin. If postgres was installed, you should have a server called postgres. Create two database there with the names "health_db_local" and "health_db_local_test". Running the API will create tables from health_db_local. Running the Tests will create tables for health_db_local_test. 
+Install [PostgreSQL](https://www.postgresql.org/download/) with PGAdmin. If Postgres was installed, you should have a server called postgres. Create two database there with the names "health_db_local" and "health_db_local_test". Running the API will create tables from health_db_local. Running the Tests will create tables for health_db_local_test. 
 
 ### Integration Test
 Make sure PostgreSQL is running. In Visual Studio, open Heart Monitor API. Right click the "Hear Monitor API Test" solution, then choose, "run all tests". 
@@ -102,21 +102,21 @@ DELTE {domain}/HeartRate?recordId=1
 ### Mobile Application
 The user can register with a username from the login screen. The app will call the API to register that name in the databse. Exception will be thrown if user already exists. Exception is not handled. 
 
-![picture]("Images/login.jpg")
+![](Images/login.jpg)
 
 Authentication is not yet implemented so users only provide username. User can log in with the same username after registering.  User will get to this screen. 
 
-![picture]("Images/main.jpg")
+![](Images/main.jpg)
 
 The user can add Heart Rate Records. Heart Rate records are measured by generating random values. Heart Rate Records are stored in the database for the user Id. 
 
 After the next call to the database, the record will be listed, with the most recently created record at the top. If Heart Rate is too high, warnings will be shown to the user. 
 
-![picture]("Images/mainRecord.jpg")
+![](Images/mainRecord.jpg)
 
-![picture]("Images/GoodRecord.jpg")
+![](Images/GoodRecord.jpg)
 
-![picture]("Images/BadRecord.jpg)
+![](Images/BadRecord.jpg)
 
 
 The user can also delete records, where they will be deleted from the database. 
